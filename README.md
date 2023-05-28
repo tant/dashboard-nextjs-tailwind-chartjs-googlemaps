@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Vô file components/CardMaps.jsx dòng 21 sửa cái key mới hiện bản đồ lên được nha
+
 First, run the development server:
 
 ```bash
