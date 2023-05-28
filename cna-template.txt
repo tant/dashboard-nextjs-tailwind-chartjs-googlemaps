@@ -1,0 +1,30 @@
+tantran@flowx13:~$ npx create-next-app@latest .
+✔ Would you like to use TypeScript with this project? … No
+✔ Would you like to use ESLint with this project? … No 
+✔ Would you like to use Tailwind CSS with this project? … Yes
+✔ Would you like to use `src/` directory with this project? … No
+✔ Use App Router (recommended)? … Yes
+✔ Would you like to customize the default import alias? … No 
+Creating a new Next.js app in /home/tantran/nextjs-projects/dashboard-tailwind-chartjs.
+
+Using npm.
+
+Initializing project with template: app-tw
+
+
+Installing dependencies:
+- react
+- react-dom
+- next
+- tailwindcss
+- postcss
+- autoprefixer
+
+
+added 109 packages, and audited 110 packages in 14s
+
+21 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Initialized a git repository.
